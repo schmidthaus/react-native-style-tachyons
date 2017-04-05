@@ -55,7 +55,7 @@
     "tape": "^4.6.3"
   },
   "peerDependencies": {
-    "react-native": "0.x"
+    "react-native": "^0.43.1"
   },
   "scripts": {
     "build": "rm -Rf lib && babel src -d lib",
