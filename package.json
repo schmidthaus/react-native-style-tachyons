@@ -47,8 +47,8 @@
     "eslint": "^4.19.1",
     "eslint-plugin-import": "^2.10.0",
     "eslint-plugin-react": "^7.7.0",
-    "faucet": "0.0.1",
-    "publish-please": "^2.4.1",
+    "faucet": "0.0.4",
+    "publish-please": "^5.5.2",
     "react": "^16.3.1",
     "react-test-renderer": "^16.3.1",
     "tape": "^4.9.0"
